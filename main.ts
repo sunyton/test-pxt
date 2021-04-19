@@ -9,6 +9,6 @@ namespace Test_Arducam {
     //% color="#C814B8"
     //% name.fieldEditor="gridpicker" name.fieldOptions.columns=1
     export function LED1(pin: DigitalPin) {
-
+        console.log("LED1");
     }
 }
